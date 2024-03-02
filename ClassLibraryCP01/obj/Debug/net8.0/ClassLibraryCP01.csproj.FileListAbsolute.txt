@@ -1,0 +1,11 @@
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\obj\Debug\net8.0\ClassLibraryCP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\obj\Debug\net8.0\ClassLibraryCP01.AssemblyInfoInputs.cache
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\obj\Debug\net8.0\ClassLibraryCP01.AssemblyInfo.cs
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\obj\Debug\net8.0\ClassLibraryCP01.csproj.CoreCompileInputs.cache
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\bin\Debug\net8.0\ClassLibraryCP01.deps.json
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\bin\Debug\net8.0\ClassLibraryCP01.dll
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\bin\Debug\net8.0\ClassLibraryCP01.pdb
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\obj\Debug\net8.0\ClassLibraryCP01.dll
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\obj\Debug\net8.0\refint\ClassLibraryCP01.dll
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\obj\Debug\net8.0\ClassLibraryCP01.pdb
+C:\Users\anaca\source\repos\Checkpoint01\ClassLibraryCP01\obj\Debug\net8.0\ref\ClassLibraryCP01.dll
